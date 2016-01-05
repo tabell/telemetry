@@ -40,4 +40,11 @@ Specs:
 - (3) MISO, MOSI, CLK
 - (3) CS for RF, Sensor, Programming
 
+## Misc
+
+### Links
+
+- http://colinkarpfinger.com/blog/2010/the-dropouts-guide-to-antenna-design/
+- http://www.hp.woodshot.com/
+- http://www.hoperf.com/upload/rf/RFM12.pdf
 
